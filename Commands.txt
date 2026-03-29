@@ -22,9 +22,3 @@ python -m venv .venv
 # Install Requirements:
 pip install -r projects\IOWASalesForecast\requirements.txt
 
-# VS Code - Como conectar o notebook ao .venv:
-# 1. No VS Code, abra o arquivo .ipynb
-# 2. No canto superior direito, clique em "Select Kernel"
-# 3. Escolha "Python Environments..." -> "Select Python Interpreter"
-# 4. Selecione o que aponta para: .venv\Scripts\python.exe (na pasta RAIZ)
-# 5. Se não aparecer, aperte o botão de "Refresh".
