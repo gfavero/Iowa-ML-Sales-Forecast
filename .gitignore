@@ -1,0 +1,18 @@
+# Credentials
+service_account_iowa.json
+
+# Private / Learning materials
+project_proposal.md
+Learning_Guide.md
+
+# Python
+.venv/
+__pycache__/
+
+# Data files
+*.csv
+*.png
+
+# OS / IDE
+.DS_Store
+.ipynb_checkpoints/
