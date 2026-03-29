@@ -1,9 +1,8 @@
 # Credentials
 service_account_iowa.json
 
-# Private / Learning materials
-project_proposal.md
-Learning_Guide.md
+# Private
+project_framework.md
 
 # Python
 .venv/
