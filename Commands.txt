@@ -8,7 +8,7 @@ git push
 cd .\projects\IOWASalesForecast\
 
 # Python Virtual Environment
-# (Localizado na raiz: c:\VS Code Files\Geraldo Portifolio)
+# (Localizado na raiz: C:\Projects\iowa-ml-sales-forecast)
 
 # Criar (se precisar):
 python -m venv .venv
